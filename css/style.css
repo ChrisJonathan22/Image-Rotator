@@ -1,0 +1,21 @@
+#title {
+        background-color: teal;
+        color: white;
+}
+
+#macScreen {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translateX(-50%) translateY(-50%);
+        background-image: url(../resources/mac.png);
+        width: 576px;
+        height: 500px;
+}
+
+#imageContainer {
+        width: 555px;
+        height: 325px;
+        margin: 10px 0px 0px 11px;
+        background-color: #ccc;
+}
